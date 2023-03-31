@@ -1,0 +1,47 @@
+.bg {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Prospect_Park_Bartel-Pritchard_Circle_Columns.jpg/1280px-Prospect_Park_Bartel-Pritchard_Circle_Columns.jpg");
+
+  height:  100vh;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#home {
+
+    text-align: center;
+
+    color: white;
+
+    text-shadow: 2px 2px 4px black;
+}
+ ul {
+  color: blue;
+ }
+
+.bg2 {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Long_Meadow%2C_Prospect_Park%2C_Brooklyn_-_panoramio_-_jimbay.jpg/1280px-Long_Meadow%2C_Prospect_Park%2C_Brooklyn_-_panoramio_-_jimbay.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+.bg3{
+  background-image: url('https://images.squarespace-cdn.com/content/v1/58a0d691ff7c50486df2c34c/e9da689c-82cc-485c-9b05-dd4d486c41a1/20210613-SMORGASBURG-Prospect-Park-0276.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+
+
+}
+
+.bg4{
+  background-image: url('https://www.tclf.org/sites/default/files/thumbnails/image/NY_Brooklyn_ProspectPark_BarrettDoherty_2020_001_sig.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+
+}
+
